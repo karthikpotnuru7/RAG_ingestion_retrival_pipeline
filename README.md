@@ -22,6 +22,7 @@ The project consists of two major components:
 
 ---
 
+
 ## Tech Stack
 
 ### Programming Language
